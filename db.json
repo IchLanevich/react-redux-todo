@@ -1,0 +1,30 @@
+{
+  "todos": [
+    {
+      "id": "3bb6c46c-59a6-4eb4-9a4d-b1f712ee8bfa",
+      "todo": "Learn Next JS",
+      "dueDate": "1/16/2023",
+      "isCompleted": true,
+      "isImportant": false
+    },
+    {
+      "id": "1448ad03-b4c3-4863-8031-e739df02efda",
+      "todo": "Finish Dicoding FE Expert course",
+      "dueDate": "1/17/2023",
+      "isCompleted": true,
+      "isImportant": true
+    },
+    {
+      "id": "9d16e56e-aac0-4a2d-ae45-18c057e68768",
+      "todo": "asdads",
+      "dueDate": "1/30/2023",
+      "isCompleted": true
+    },
+    {
+      "id": "aa8f84db-a9b3-4375-bfa8-4ba0cdbc83d1",
+      "todo": "asdads",
+      "dueDate": "1/30/2023",
+      "isCompleted": false
+    }
+  ]
+}
